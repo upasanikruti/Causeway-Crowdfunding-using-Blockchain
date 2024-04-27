@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.10.0"
+  },
+  "name": "chainfund",
+  "description": "<p align=\"center\"><img width=\"250\" alt=\"faviicon\" src=\"https://user-images.githubusercontent.com/124496931/232869863-63114238-d065-4cef-85d2-126336d3d755.png\"></p>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

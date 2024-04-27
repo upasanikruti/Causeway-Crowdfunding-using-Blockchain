@@ -1,0 +1,18 @@
+# Causeway: A web3 and AI based crowdfunding platform
+
+ChainFund is a crowdfunding platform built on React that operates on a decentralized web. Its smart contract ensures transparency and trustworthiness by preventing malicious third parties from interfering with the fundraising process. Users can browse and select campaigns, donate using Ether through Metamask, and create their own campaigns with specific deadlines and goals. The platform's AI search feature allows users to describe the campaigns they want to donate to in their own words, and the system will filter the results automatically, making navigation easy and intuitive. This was done using Google Cloud NLP accessed through Fastapi.The project provides a secure and transparent platform for fundraising while leveraging cutting-edge technologies like blockchain and AI while having a user friendly interface.
+
+
+
+Install dependencies in root, client and web3 directories
+
+```bash
+  npm install
+```
+
+To run the application from the client directory
+
+```bash
+  npm run dev 
+```
+
