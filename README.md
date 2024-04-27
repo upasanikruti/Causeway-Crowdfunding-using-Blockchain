@@ -25,7 +25,9 @@ My Profile page:
 ![image](https://github.com/upasanikruti/Causeway-Crowdfunding-using-Blockchain/assets/85332939/cb1f2bd9-f364-483d-91c4-84e37d42a125)
 
 Chatbot:
+
 ![image](https://github.com/upasanikruti/Causeway-Crowdfunding-using-Blockchain/assets/85332939/5fc155d8-928b-4ed6-9876-0baffd81d365)
 
 Search:
+
 ![image](https://github.com/upasanikruti/Causeway-Crowdfunding-using-Blockchain/assets/85332939/5bde7f24-3622-4dbc-86de-846799e784e7)
