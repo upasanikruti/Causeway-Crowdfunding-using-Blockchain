@@ -10,3 +10,5 @@ Key Features:
 - Thirdweb Deployment: Deploying smart contracts on the Thirdweb platform for efficient and reliable execution.
 - Tailwind CSS Styling: Employing Tailwind CSS for responsive and customizable user interface design.
 
+Home page:
+![image](https://github.com/upasanikruti/Causeway-Crowdfunding-using-Blockchain/assets/85332939/7d28e08e-1d16-47a4-aaeb-1e655917a32b)
